@@ -13,6 +13,7 @@ Abstract : This project is to practice git.
 ## Installation
 
 '''shell
+'''
 $ git clone {repo address}
 $ cd {repo name}
 $ vi README.MD
@@ -21,6 +22,7 @@ $ vi README.MD
 ## How to start
 
 '''python
+'''
 def hello(name):
 	print(f'hello, {name}')
 
