@@ -1,15 +1,17 @@
 # Tset python env
 def print_Hello():
-    animals = ['dog', 'cat', 'hamster']
+    animals = ['dog', 'cat', 'hamster','tiger']
     food = [
-	'chiken',
+	'chicken',
 	'pizza',
-	'hamberger'
+	'hamburger',
+        'pasta'
     ]
     names = [
 	'John',
 	'Jane',
 	'Gil-dong',
+        'Dong-eun',
     ]
     for name in names:
         print(f'hello, {name}')
