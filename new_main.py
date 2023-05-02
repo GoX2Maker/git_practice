@@ -1,6 +1,5 @@
 # Tset python env
 def print_Hello():
-    animals = ['dog', 'cat', 'hamster','tiger']
     food = [
 	'chicken',
 	'pizza',
