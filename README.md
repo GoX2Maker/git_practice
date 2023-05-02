@@ -1,5 +1,7 @@
 # git_practice
 
+Now, I am doing unstage practice.
+
 Abstract : This project is to practice git.
 [See Demo](https://www.goolgle.com/)
 
